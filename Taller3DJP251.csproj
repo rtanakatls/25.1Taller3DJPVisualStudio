@@ -44,12 +44,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Menu.cs" />
-    <Compile Include="Player.cs" />
+    <Compile Include="Week1\Enemy.cs" />
+    <Compile Include="Week1\MenuWeek1.cs" />
+    <Compile Include="Week1\Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Week2\Circle.cs" />
+    <Compile Include="Week2\MenuWeek2.cs" />
+    <Compile Include="Week2\Rectangle.cs" />
+    <Compile Include="Week2\Shape.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

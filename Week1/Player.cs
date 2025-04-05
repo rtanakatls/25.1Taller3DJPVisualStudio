@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Taller3DJP251
+namespace Taller3DJP251.Week1
 {
     internal class Player
     {
@@ -34,6 +34,10 @@ namespace Taller3DJP251
             if (life <= 0)
             {
                 life = 0;
+            }
+            else if (life >= 100)
+            {
+                life = 100;
             }
         }
 
