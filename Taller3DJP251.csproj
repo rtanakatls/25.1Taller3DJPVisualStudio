@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Week3\Enemy.cs" />
+    <Compile Include="Week3\EnemyMelee.cs" />
+    <Compile Include="Week3\EnemyRange.cs" />
     <Compile Include="Menu.cs" />
+    <Compile Include="Week3\MenuWeek3.cs" />
     <Compile Include="Week1\Enemy.cs" />
     <Compile Include="Week1\MenuWeek1.cs" />
     <Compile Include="Week1\Player.cs" />
