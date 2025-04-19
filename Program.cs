@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Taller3DJP251.Week1;
 using Taller3DJP251.Week2;
+using Taller3DJP251.Week4;
 
 namespace Taller3DJP251
 {
@@ -12,7 +13,7 @@ namespace Taller3DJP251
     {
         static void Main(string[] args)
         {
-            Menu menu=new MenuWeek2();
+            Menu menu=new MenuWeek4();
             menu.Execute();
         }
     }

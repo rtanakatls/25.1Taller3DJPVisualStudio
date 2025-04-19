@@ -57,6 +57,7 @@
     <Compile Include="Week2\MenuWeek2.cs" />
     <Compile Include="Week2\Rectangle.cs" />
     <Compile Include="Week2\Shape.cs" />
+    <Compile Include="Week4\MenuWeek4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
