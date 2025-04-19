@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Taller3DJP251.Week4
 {
-    internal class Teacher : Student
+    internal class Teacher : Person
     {
     }
 }
