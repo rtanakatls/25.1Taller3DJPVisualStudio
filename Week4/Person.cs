@@ -8,5 +8,6 @@ namespace Taller3DJP251.Week4
 {
     internal class Person
     {
+        protected string name;
     }
 }
