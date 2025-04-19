@@ -60,6 +60,7 @@
     <Compile Include="Week4\MenuWeek4.cs" />
     <Compile Include="Week4\Person.cs" />
     <Compile Include="Week4\Student.cs" />
+    <Compile Include="Week4\Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
