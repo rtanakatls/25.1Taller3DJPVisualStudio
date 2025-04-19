@@ -58,6 +58,8 @@
     <Compile Include="Week2\Rectangle.cs" />
     <Compile Include="Week2\Shape.cs" />
     <Compile Include="Week4\MenuWeek4.cs" />
+    <Compile Include="Week4\Person.cs" />
+    <Compile Include="Week4\Student.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
